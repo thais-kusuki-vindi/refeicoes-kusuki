@@ -22,11 +22,12 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom -->
     <link href="css/custom.css" rel="stylesheet">
-	<link href="css/sticky_footer.css" rel="stylesheet">
+    <link href="css/sticky_footer.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
+    
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -79,13 +80,15 @@
       </div>
     </nav>
 
-
     
      <!-- Begin page content -->
-    <div class="container">
+    <div class="container cardapio">
       <div class="page-header">
         <h1>Cardápio</h1>
       </div>
+      <h2>Especial do Dia</h2>
+      <span id="especial-dia">&nbsp;</span>
+      <h2>Pratos Diários</h2>
       <p>Temos de segunda a sexta durante o almoço:</p>
       <ul class="cardapio">
         <li>Contra-filé</li>
@@ -101,12 +104,11 @@
         <li>Linguiça calabresa defumada</li>
         <li>Salsicha viena com molho de tomate</li>
       </ul>
-      <p>Aos sábados, temos um cardápio variado com pratos como feijoada, yakisoba, frango xadrez, frango assado entre outros. Aos domingo temos assados em geral.      </p>
-      <h2>
-      Faça o download do nosso cardápio completo! <h2>
-        <a href="cardapio/cardapio_1017.pdf" download="cardapio_1017_kusuki">
-        </a></p>
-      <a href="cardapio/cardapio_1017.pdf" download="cardapio_1017_kusuki">
+      <p>
+        Aos sábados, temos um cardápio variado com pratos como feijoada, yakisoba, frango xadrez, frango assado entre outros. Aos domingo temos assados em geral.
+      </p>
+      <h2>Faça o download do nosso cardápio completo! <h2>
+      <a href="cardapio/cardapio_1117.pdf" download="cardapio_1117_kusuki">
       <button type="button" class="btn btn-lg btn-primary">Download</button>
       </a>
 <p class="text-justify">&nbsp; </p>
@@ -159,7 +161,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="assets/js/docs.min.js"></script>
+    <script src="js/pratoDia.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
   </body>
 </html>
