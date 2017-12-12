@@ -1,0 +1,18 @@
+#map {
+	width: 500px;
+    height: 400px;
+}
+/*@media(max-width:767px){}
+@media(min-width:768px){}*/
+@media(min-width:992px){
+#map {
+	width: 900;
+    height: 800px;
+}
+}
+@media(min-width:1200px){
+#map {
+	width: 1000px;
+    height: 900px;
+}
+}

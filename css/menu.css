@@ -13,11 +13,10 @@
   *zoom: 1;
 }
 html{
-	font-family: Helvetica, arial, sans-serif;
-	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
 }
-body{
-	background: url('brushed_alu.png');
+h1 {
+	font-family: 'Francois One', sans-serif;
 }
 .clearfix:before,
 .clearfix:after {

@@ -20,9 +20,9 @@
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom -->
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Francois+One|Roboto" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
-    <link href="css/sticky_footer.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -44,12 +44,12 @@
     <!-- Begin page content -->
     <div class="container">
       <div class="page-header">
-        <h1>Sobre a Kusuki</h1>
+        <h1>SOBRE A REFEIÇÕES KUSUKI</h1>
       </div>
       <p><img src="images/tulipa.jpg" class="img-thumbnail"></p>
       <p>&nbsp;</p>
-      <p class="text-justify">A Refeições Kusuki foi fundada em 1995 pelas irmãs Mieko e Kioko e inicialmente era uma Rotisserie e Laticínios especializada na comercialização de pratos congelados. Ao longo dos anos deixou de trabalhar com congelados e se especializou em comida por kilo e delivery, sempre mantendo a tradição no preparo de pratos saborosos e de qualidade.</p>
-      <p class="text-justify">A Refeições Kusuki oferece diariamente no almoço pratos variados com acompanhamento (marmitex ou kilo) como Contra-filé, Frango grelhado, Bife à Parmegiana, Omelete recheado entre outros, além de sempre ter um prato especial do dia.</p>
+      <p class="text-justify">A <strong>Refeições Kusuki</strong> foi fundada em 1995 pelas irmãs Mieko e Kioko e inicialmente era uma Rotisserie e Laticínios especializada na comercialização de pratos congelados. Ao longo dos anos deixou de trabalhar com congelados e se especializou em comida por kilo e delivery, sempre mantendo a tradição no preparo de pratos saborosos e de qualidade.</p>
+      <p class="text-justify">A <strong>Refeições Kusuki</strong> oferece diariamente no almoço pratos variados com acompanhamento (marmitex ou kilo) como Contra-filé, Frango grelhado, Bife à Parmegiana, Omelete recheado entre outros, além de sempre ter um prato especial do dia.</p>
       <p class="text-justify">Aos sábados contamos com um cardápio que incluem pratos como Feijoada, Yakisoba, Frango Xadrez, entre outros.</p>
       <p class="text-justify">Aos domingos a especialidade da casa são os assados: frango assado, maminha, picanha, linguiça artesanal, além de acompanhamentos como arroz à grega, maionese etc.</p>
       <p class="text-justify">Consulte o nosso <a href="cardapio.php">cardápio</a> e venha saborear a melhor comida da região da Praça da Árvore!</p>
@@ -68,6 +68,6 @@
     <script src="assets/js/docs.min.js"></script>
     <script src="js/navActive.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>

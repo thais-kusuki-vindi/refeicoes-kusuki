@@ -21,10 +21,11 @@
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Francois+One|Roboto" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/footer.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
-	<link href="css/footer.css" rel="stylesheet">
-    <!--link href="css/font-awesome.css" rel="stylesheet"-->
-
+    
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
@@ -62,17 +63,17 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/frango03.jpg"  class="img-responsive" alt="Frango Assado">
+          <img src="images/tulipa.jpg"  class="img-responsive" alt="Tulipa de frango">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Delicioso Frango Assado</h1>
-              <p>Frango assado aos finais de semana.<br>
-                Os mais suculentos da região! Reserve o seu.</p>
+              <h1>Carnes assadas aos finais de semana</h1>
+              <p>Venha saborear os nossos assados de sábado e domingo.<br>
+                Nossos frangos assados são os mais suculentos da região! Reserve o seu.</p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="images/prato01.jpg"  class="img-responsive" alt="Comida Caseira">
+          <img src="images/frango-assado.jpg"  class="img-responsive" alt="Comida Caseira">
           <div class="container">
             <div class="carousel-caption">
               <h1>Comida Caseira.</h1>
@@ -111,7 +112,7 @@
           <p>(11) 5584-9215 ou (11) 5589-6073<br>
             Diariamente das 10h30 às 14h30
             <br>
-          Consulte sobre área e taxa de entrega</p>
+          Consulte sobre a área atendida e taxa de entrega</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4"><img src="images/icon-cartoes.png" class="img-responsive center-block" alt="Aceitamos cartões">
           <h2>Cartões</h2>

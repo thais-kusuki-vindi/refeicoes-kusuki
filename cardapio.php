@@ -20,9 +20,9 @@
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom -->
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Francois+One|Roboto" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
-    <link href="css/sticky_footer.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -46,7 +46,7 @@
      <!-- Begin page content -->
     <div class="container cardapio">
       <div class="page-header">
-        <h1>Cardápio</h1>
+        <h1>CARDÁPIO</h1>
       </div>
       
       <img src="images/menu.png" class="center-block">
@@ -93,7 +93,7 @@
     <script src="js/navActive.js"></script>
     <script src="js/pratoDia.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
 
   </body>
 </html>
