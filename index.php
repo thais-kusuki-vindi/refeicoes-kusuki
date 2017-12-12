@@ -54,6 +54,18 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
+          <img src="images/ceia.jpg"  class="img-responsive" alt="Ceia de Natal">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Encomendas para Ceia</h1>
+              <p>Quer mais praticidade nas ceias de Natal e Ano Novo<br>
+                Encomende conosco sua ceia para as festas de fim de ano!
+              </p>
+              <p><a class="btn btn-lg btn-primary" href="ceia.php" role="button">Ver relação de encomendas</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
           <img src="images/prato05.jpg" class="img-responsive" alt="Tradição no bairro">
           <div class="container">
             <div class="carousel-caption">
@@ -78,7 +90,7 @@
             <div class="carousel-caption">
               <h1>Comida Caseira.</h1>
               <p>Comida caseira servida diariamente. Faça o download do nosso cardápio</p>
-              <p><a class="btn btn-lg btn-primary" href="cardapio.html" role="button">Ver Cardápio</a></p>
+              <p><a class="btn btn-lg btn-primary" href="cardapio.php" role="button">Ver Cardápio</a></p>
             </div>
           </div>
         </div>

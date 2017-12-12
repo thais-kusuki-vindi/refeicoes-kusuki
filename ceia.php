@@ -46,43 +46,80 @@
      <!-- Begin page content -->
     <div class="container cardapio">
       <div class="page-header">
-        <h1>CARDÁPIO</h1>
+        <h1>ENCOMENDAS - Ceia de Natal e Ano Novo</h1>
       </div>
-      <!--img src="images/menu.png" class="center-block"-->
-      
-      <p>O nosso cardápio é cuidadosamente elaborado com os melhores produtos e visando sempre uma comida muito saborosa.</p>
-      <h2>Especial do Dia</h2>
-      <div class="well">
-        <span id="especial-dia">&nbsp;</span>
-      </div>
-      
-      <h2>Pratos Diários</h2>
-      <p>Temos de segunda a sexta durante o almoço (com acompanhemento incluso):</p>
-      <div class="well">
-        <ul class="cardapio">
-          <li>Contra-filé</li>
-          <li>Bife à cavalo</li>
-          <li>Bife à milanesa</li>
-          <li>Bife à parmegiana</li>
-          <li>Filé de frango grelhado</li>
-          <li>Filé de frango à milanesa</li>
-          <li>Filé de frango à parmegiana</li>
-          <li>Empanado de frango recheado</li>
-          <li>Almôndegas fritas</li>
-          <li>Omelete recheado</li>
-          <li>Linguiça calabresa defumada</li>
-          <li>Salsicha viena com molho de tomate</li>
-        </ul>
-      </div>
+      <img src="images/xmas.png" class="center-block">
 
-      <p>
-        Aos sábados, temos um cardápio variado com pratos como feijoada, yakisoba, frango xadrez, frango assado entre outros. Aos domingo temos assados em geral.
-      </p>
-      <h2>Faça o download do nosso cardápio completo! <h2>
-      <a href="cardapio/cardapio_1117.pdf" download="cardapio_1117_kusuki">
-      <button type="button" class="btn btn-lg btn-primary">Download</button>
-      </a>
-<p class="text-justify">&nbsp; </p>
+      <p>&nbsp;</p>
+      <p>Quer mais praticidade nas ceias de Natal e Ano Novo? Encomende conosco sua ceia para as festas de fim de ano!</p>
+
+      <table class="table table-striped">
+        <tr>
+          <th>Assados</th>
+          <th>Preço (kg)</th>
+        </tr>
+        <tr>
+          <td>Peru</td>
+          <td>R$ 60,00</td>
+        </tr>
+        <tr>
+          <td>Chester</td>
+          <td>R$ 55,00</td>
+        </tr>
+        <tr>
+          <td>Peito de Peru</td>
+          <td>R$ 77,00</td>
+        </tr>
+        <tr>
+          <td>Tender</td>
+          <td>R$ 99,00</td>
+        </tr>
+        <tr>
+          <td>Pernil</td>
+          <td>R$ 49,50</td>
+        </tr>
+        <tr>
+          <td>Lombo</td>
+          <td>R$ 62,00</td>
+        </tr>
+        <tr>
+          <td>Maminha</td>
+          <td>R$ 70,00</td>
+        </tr>
+        <tr>
+          <td>Costelinha de Porco</td>
+          <td>R$ 65,00</td>
+        </tr>
+        <tr>
+          <td>Picanha</td>
+          <td>R$ 100,00</td>
+        </tr>
+      </table>
+
+      <table class="table table-striped">
+        <tr>
+          <th>Diversos</th>
+          <th>Preço (kg)</th>
+        </tr>
+        <tr>
+          <td>Lombo de panela</td>
+          <td>R$ 62,00</td>
+        </tr>
+        <tr>
+          <td>Salada de maionese</td>
+          <td>R$ 45,00</td>
+        </tr>
+        <tr>
+          <td>Salpicão</td>
+          <td>R$ 56,00</td>
+        </tr>
+        <tr>
+          <td>Arroz à grega</td>
+          <td>R$ 45,00</td>
+        </tr>
+      </table>
+
+      <p>Encomendas de Natal até o dia 20/12</p>
   </div>
 
     <!-- FOOTER
