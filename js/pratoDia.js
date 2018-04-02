@@ -10,9 +10,9 @@ $(document).ready(function() {
 		var mes = dt.getMonth() + 1;
 		var dtcompleta = dia + '/' + mes;
 
-		for(var i = 0; i < myData.length; i++) {
-			var data = myData[i]['data'];
-			var prato = myData[i]['prato'];
+		for(var i = 0; i < myData.prato_do_dia.length; i++) {
+			var data = myData.prato_do_dia[i]['data'];
+			var prato = myData.prato_do_dia[i]['prato'];
 
 			// Verifica a data de hoje e adiciona o prato do dia
 			if(dtcompleta == data) {

@@ -7,7 +7,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-    
       gtag('config', 'UA-107598133-1');
     </script>
     <meta charset="utf-8">
@@ -15,7 +14,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Kusuki Refeições - Faça seu pedido 11 5589-6073">
     <meta name="author" content="Fabio Kusuki">
-
     <title>Refeições Kusuki - 11 5589-6073</title>
 
     <!-- Bootstrap core CSS -->
@@ -25,17 +23,15 @@
     <link href="css/custom.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <link href="css/carousel.css" rel="stylesheet">
-    
+
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
-
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-
   </head>
   <body>
 
@@ -46,6 +42,7 @@
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -54,18 +51,6 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="images/ceia.jpg"  class="img-responsive" alt="Ceia de Natal">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Encomendas para Ceia</h1>
-              <p>Quer mais praticidade nas ceias de Natal e Ano Novo<br>
-                Encomende conosco sua ceia para as festas de fim de ano!
-              </p>
-              <p><a class="btn btn-lg btn-primary" href="ceia.php" role="button">Ver relação de encomendas</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
           <img src="images/prato05.jpg" class="img-responsive" alt="Tradição no bairro">
           <div class="container">
             <div class="carousel-caption">
@@ -105,11 +90,9 @@
       </a>
     </div><!-- /.carousel -->
 
-
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
-
     <div class="container marketing">
 
       <!-- Three columns of text below the carousel -->
@@ -117,7 +100,7 @@
         <div class="col-lg-4"><img src="images/icon-menu.png" class="img-responsive center-block" alt="Cardápio">
           <h2>Cardápio</h2>
           <p>Monte o seu prato com acompanhamento ou peça o especial do dia. Temos pratos diferenciados aos finais de semana. Consulte nosso cardápio!</p>
-          <p><a class="btn btn-default" href="cardapio.html" role="button">Mais detalhes &raquo;</a></p>
+          <p><a class="btn btn-default" href="cardapio.php" role="button">Mais detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4"><img src="images/icon-delivery.png" class="img-responsive center-block" alt="Delivery">
           <h2>Delivery</h2>
@@ -127,16 +110,15 @@
           Consulte sobre a área atendida e taxa de entrega</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4"><img src="images/icon-cartoes.png" class="img-responsive center-block" alt="Aceitamos cartões">
-          <h2>Cartões</h2>
-          <p>Aceitamos cartões de débito, crédito, refeição e alimentação (exceto Ticket Restaurante e Ticket Alimentação). Consulte!</p>
+          <h2>Formas de Pagamento</h2>
+          <p>Dinheiro, cartões de Débito e Crédito, Sodexo e Alelo (Refeição e Alimentação).</p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
     </div><!-- /.container -->
-    
+
     <!-- FOOTER
     ================================================== -->
     <?php include("footer.html"); ?>
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

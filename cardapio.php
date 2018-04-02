@@ -7,7 +7,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-    
       gtag('config', 'UA-107598133-1');
     </script>
     <meta charset="utf-8">
@@ -27,35 +26,29 @@
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
-    
-
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-
   </head>
   <body>
-    
+
     <!-- NAVBAR
     ================================================== -->
     <?php include("header.html"); ?>
 
-    
-     <!-- Begin page content -->
+    <!-- Begin page content -->
     <div class="container cardapio">
       <div class="page-header">
         <h1>CARDÁPIO</h1>
       </div>
       <!--img src="images/menu.png" class="center-block"-->
-      
       <p>O nosso cardápio é cuidadosamente elaborado com os melhores produtos e visando sempre uma comida muito saborosa.</p>
       <h2>Especial do Dia</h2>
       <div class="well">
         <span id="especial-dia">&nbsp;</span>
       </div>
-      
       <h2>Pratos Diários</h2>
       <p>Temos de segunda a sexta durante o almoço (com acompanhemento incluso):</p>
       <div class="well">
@@ -74,21 +67,19 @@
           <li>Salsicha viena com molho de tomate</li>
         </ul>
       </div>
-
       <p>
         Aos sábados, temos um cardápio variado com pratos como feijoada, yakisoba, frango xadrez, frango assado entre outros. Aos domingo temos assados em geral.
       </p>
       <h2>Faça o download do nosso cardápio completo! <h2>
-      <a href="cardapio/cardapio_1117.pdf" download="cardapio_1117_kusuki">
+      <a href="cardapio/cardapio_0418.pdf" download="cardapio_0418_kusuki">
       <button type="button" class="btn btn-lg btn-primary">Download</button>
       </a>
-<p class="text-justify">&nbsp; </p>
-  </div>
+      <p class="text-justify">&nbsp; </p>
+    </div>
 
     <!-- FOOTER
     ================================================== -->
     <?php include("footer.html"); ?>
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -100,6 +91,5 @@
     <script src="js/pratoDia.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
-
   </body>
 </html>
